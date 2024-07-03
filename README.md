@@ -1,1 +1,1 @@
-# C-Users-Lenovo-Desktop-Employee-Salary-Prediction
+# Employee-Salary-Prediction
